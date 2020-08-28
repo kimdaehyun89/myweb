@@ -1,0 +1,47 @@
+﻿<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=euc-kr"/>
+    <title> div, span 영역 이해</title>
+    <link href="common2.css" rel="stylesheet" type="text/css"/>
+    <style>
+      #title{ 
+        background:#5C443A;
+        color:#FFFFFF;
+        padding:3px 10px 3px 10px;
+        text-align:left;
+        width:600px;
+      }
+      div.actors {  
+        border:1px solid gray;
+        width:600px;
+        padding: 10px;
+      }
+      span.name { 
+        color: #ff0000;
+        font-size: 26px;
+      }
+      img {
+        width: 100px;
+      }
+    </style>
+  </head>
+  <body>
+    <h3> 영화 소개 </h3>
+    <h4> 제목 : 스파이더 맨 </h4>
+    <h4> 등장 인물 </h4>
+    <div class="actors">
+      <p>
+        <img src="./image/movie1.jpg"/>
+        <span class="name">톰 홀랜드</span> , 피터 파커 역
+      </p>
+      <p>
+        <img src="./image/movie2.jpg"/>
+        <span class="name">로버트 다우니주니어</span> , 토니 스파커 역
+      </p>
+	  <p>
+	    <img src="./image/dog1.jpg">
+		<span class="name">우리집 강아지</span> , 뽀삐
+	  </p>
+    </div>
+  </body>
+</html>
