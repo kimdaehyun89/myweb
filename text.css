@@ -1,0 +1,15 @@
+﻿body {
+	font:1em "맑은 고딕",Cambria,Georgia,sans-serif;
+  background: url("./image/text_bg.png") no-repeat center right;
+}
+h1,h2,h3,h4,h5 {
+	padding: 10px;
+  background: #F5F5F5;
+}
+
+.half {
+  width: 50%;
+}
+.content {
+  margin: 0px;  
+}

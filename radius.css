@@ -1,0 +1,27 @@
+﻿body {
+	margin:50px;
+	font:1em "맑은 고딕",Cambria,Georgia,sans-serif;
+  background: #FCF2E3;
+}
+
+h2 {
+  background-color: #FF6434;
+  color: #FFFAA7;
+  padding: 10px;
+  width: 1000px;
+}
+
+table {
+  width: 700px;
+  text-align: center;
+  
+}
+
+td {
+  padding-bottom: 30px;
+}
+
+th {
+  padding: 10px;
+  height: 80px;
+}

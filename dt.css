@@ -1,0 +1,21 @@
+﻿dl {
+	width:600px;
+	background:#eee;
+	padding:20px;
+}
+dt,dd {
+	margin-top:15px;
+}
+dt {
+	font-size:20px;
+	font-weight:bold;
+	color:#2731C4;
+}
+body {
+	margin:30px;
+	font:1em "맑은 고딕",Cambria,Georgia,sans-serif;
+	background:url("./imgs/dt_bg.jpg") no-repeat right bottom;
+}
+h1,h2 {
+	color: blue;
+}
